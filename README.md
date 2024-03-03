@@ -1,4 +1,7 @@
+
+
 # Skills
+
 * Hypervisor :
 <p>
 <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=Proxmox&logoColor=white" />
@@ -12,9 +15,16 @@
 <img alt="Debian" src="https://img.shields.io/badge/-Debian-F53897?style=flat&logo=debian&logoColor=white"/>
 </p>
 
-![Windows 7](https://img.shields.io/badge/Windows%207-003399?style=flat&logo=windowsxp&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
+
+<img src="IMG\MS_Logo.png" alt="MS_Logo" style="zoom:50%;" />
+
+<p>
+    <img src="https://img.shields.io/badge/Windows%207-003399?style=flat&logo=windowsxp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white"/>
+</p>
+
+
 
 * Software :
 
