@@ -14,7 +14,7 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
 <img alt="Debian" src="https://img.shields.io/badge/-Debian-F53897?style=flat&logo=debian&logoColor=white"/>
 </p>
----
+----
 
 <img src="img/MS_Logo.png" alt="MS_Logo"  width="117" height="37"/>
 
