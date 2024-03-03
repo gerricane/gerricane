@@ -16,7 +16,7 @@
 </p>
 ---
 
-<img src="img/MS_Logo.png" alt="MS_Logo"  width="117" height="37"/>
+<img src="img/MS_Logo_line.png" alt="MS_Logo"/>
 
 <p>
     <img src="https://img.shields.io/badge/Windows%207-003399?style=flat&logo=windowsxp&logoColor=white"/>
